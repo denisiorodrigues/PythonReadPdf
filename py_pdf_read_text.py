@@ -1,11 +1,15 @@
 import PyPDF2
 import os
 
+#Obter o caminho completo
+print(os.getcwd())
+
 def divisor (title=''):
     total = 50
     print("-"*total)
     print(title.upper().center(total))
     print("-"*total)
+
 
 # pdf file object
 # you can find find the pdf file with complete code in below
@@ -15,6 +19,10 @@ pdfFileObj = open(file_path, 'rb')
 # pdf reader object
 reader = PyPDF2.PdfReader(pdfFileObj)
 # number of pages in pdf
+
+divisor("Properties File")
+print("Size: ", os.path.getsize(file_path), "bytes")
+
 divisor('Total pages')
 print(len(reader.pages))
 
