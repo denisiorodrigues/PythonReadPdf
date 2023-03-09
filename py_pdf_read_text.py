@@ -44,10 +44,10 @@ print(len(reader.pages))
 # a page object
 #divisor('Extracting text from page')
 #page_number = 0
-#page = reader.pages[page_number]
+page = reader.pages[page_number]
 ## extracting text from page.
 ## this will print the text you can also save that into String
-#print(page.extract_text())
+print(page.extract_text())
 #
 #divisor('Page')
 #
@@ -75,8 +75,9 @@ print(len(reader.pages))
 #
 #
 ##IMAGES
-#count = 0
-#for image_file_object in page.images:
-#    with open(f"{main_folder}/{str(count) + image_file_object.name}", "wb") as fp:
-#        fp.write(image_file_object.data)
-#        count += 1
+count = 0
+page = reader.pages[0]
+for image_file_object in page.images:
+    with open(f"{main_folder}/{str(count) + image_file_object.name}", "wb") as fp:
+        fp.write(image_file_object.data)
+        count += 1
