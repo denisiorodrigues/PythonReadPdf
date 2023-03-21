@@ -1,0 +1,1604 @@
+INSS
+CNIS - Cadastro Nacional de Informações Sociais
+Extrato Previdenciário
+
+Página 1 de 8
+
+10/03/2023 21:08:54
+
+Identificação do Filiado
+
+NIT: 137.29863.19-2
+
+CPF: 021.544.643-78
+
+Nome: DENISIO EMANUEL DE SOUSA RODRIGUES
+
+Data de nascimento: 26/07/1986
+
+Nome da mãe:
+
+JACQUELINE DE SOUSA RODRIGUES
+
+Relações Previdenciárias
+
+Seq.
+
+NIT
+
+Código Emp.
+
+Origem do Vínculo
+
+1
+
+137.29863.19-2
+
+02.757.614/0021-91
+
+CONTAX S.A.
+
+Matrícula do
+Trabalhador
+
+Tipo Filiado no
+Vínculo
+Empregado ou Agente
+Público
+
+Data Início Data Fim Últ. Remun.
+
+14/10/2008 03/08/2009
+
+08/2009
+
+Remunerações
+
+Competência
+
+Remuneração
+
+Indicadores
+
+Competência
+
+Remuneração
+
+Indicadores
+
+Competência
+
+Remuneração
+
+Indicadores
+
+10/2008
+
+01/2009
+
+04/2009
+
+07/2009
+
+156,78
+
+293,33
+
+334,95
+
+333,98
+
+11/2008
+
+02/2009
+
+05/2009
+
+08/2009
+
+278,62
+
+296,03
+
+309,78
+
+31,47
+
+12/2008
+
+03/2009
+
+06/2009
+
+279,03
+
+327,32
+
+310,00
+
+Seq.
+
+NIT
+
+Código Emp.
+
+Origem do Vínculo
+
+2
+
+137.29863.19-2
+
+03.485.700/0001-01 MR GUN CENTRO DE FORMACAO E APERFEICOAMENTO
+
+DE VIGILANTES LTDA
+
+Matrícula do
+Trabalhador
+
+Tipo Filiado no
+Vínculo
+Empregado ou Agente
+Público
+
+Data Início Data Fim Últ. Remun.
+
+03/05/2010 03/01/2011
+
+01/2011
+
+Remunerações
+
+Competência
+
+Remuneração
+
+Indicadores
+
+Competência
+
+Remuneração
+
+Indicadores
+
+Competência
+
+Remuneração
+
+Indicadores
+
+05/2010
+
+08/2010
+
+11/2010
+
+01/2011
+
+494,67
+
+530,00
+
+530,00
+
+56,50
+
+06/2010
+
+09/2010
+
+12/2010
+
+530,00
+
+530,00
+
+530,00
+
+07/2010
+
+10/2010
+
+530,00
+
+530,00
+
+O INSS poderá rever a qualquer tempo as informações constantes deste extrato, observados os arts.19 ao 19-F do RPS aprovado pelo Decreto 3.048/99.
+O segurado somente terá reconhecida como tempo de contribuição ao RGPS a competência cujo valor consolidado seja igual ou superior ao salário mínimo, sendo assegurados os ajustes de complementação, utilização
+ou agrupamento, conforme o caso, de acordo com o § 14 do art.195 da CF/1988 e art.29 da EC 103/2019.
+
+INSS
+CNIS - Cadastro Nacional de Informações Sociais
+Extrato Previdenciário
+
+Página 2 de 8
+
+10/03/2023 21:08:54
+
+Identificação do Filiado
+
+NIT: 137.29863.19-2
+
+CPF: 021.544.643-78
+
+Nome: DENISIO EMANUEL DE SOUSA RODRIGUES
+
+Data de nascimento: 26/07/1986
+
+Nome da mãe:
+
+JACQUELINE DE SOUSA RODRIGUES
+
+Relações Previdenciárias
+
+Seq.
+
+NIT
+
+Código Emp.
+
+3
+
+137.29863.19-2
+
+07.469.653/0007-59
+
+Origem do Vínculo
+ASSOCIACAO DE EDUCACAO VICENTINA SANTA LUISA
+DE MARILLAC - AEVSLM
+
+Matrícula do
+Trabalhador
+
+Tipo Filiado no
+Vínculo
+Empregado ou Agente
+Público
+
+Data Início Data Fim Últ. Remun.
+
+02/01/2012 01/08/2013
+
+08/2013
+
+Remunerações
+
+Competência
+
+Remuneração
+
+Indicadores
+
+Competência
+
+Remuneração
+
+Indicadores
+
+Competência
+
+Remuneração
+
+Indicadores
+
+01/2012
+
+04/2012
+
+07/2012
+
+10/2012
+
+01/2013
+
+04/2013
+
+07/2013
+
+1.090,00
+
+1.166,30
+
+1.399,56
+
+1.166,30
+
+1.166,30
+
+1.166,30
+
+1.504,53
+
+02/2012
+
+05/2012
+
+08/2012
+
+11/2012
+
+02/2013
+
+05/2013
+
+08/2013
+
+1.090,00
+
+1.242,60
+
+1.166,30
+
+1.166,30
+
+1.166,30
+
+1.341,24
+
+41,79
+
+03/2012
+
+06/2012
+
+09/2012
+
+12/2012
+
+03/2013
+
+06/2013
+
+1.090,00
+
+1.166,30
+
+1.166,30
+
+1.166,30
+
+1.166,30
+
+1.341,24
+
+Seq.
+
+NIT
+
+Código Emp.
+
+Origem do Vínculo
+
+Matrícula do
+Trabalhador
+
+Tipo Filiado no
+Vínculo
+
+Data Início Data Fim Últ. Remun.
+
+4
+
+137.29863.19-2
+
+AGRUPAMENTO DE CONTRATANTES/COOPERATIVAS
+
+Contribuinte Individual 01/09/2012 30/09/2012
+
+Indicadores:
+
+IREM-INDPEND
+
+Remunerações
+
+Competência
+
+09/2012
+
+Contrat./Cooperat.
+
+60.555.513/0001-90
+
+Estabelecimento
+
+60.555.513/0001-90
+
+Tomador
+
+Forma Prestação Serviço
+
+Remuneração
+
+Não Cooperado
+
+202,19
+
+O INSS poderá rever a qualquer tempo as informações constantes deste extrato, observados os arts.19 ao 19-F do RPS aprovado pelo Decreto 3.048/99.
+O segurado somente terá reconhecida como tempo de contribuição ao RGPS a competência cujo valor consolidado seja igual ou superior ao salário mínimo, sendo assegurados os ajustes de complementação, utilização
+ou agrupamento, conforme o caso, de acordo com o § 14 do art.195 da CF/1988 e art.29 da EC 103/2019.
+
+INSS
+CNIS - Cadastro Nacional de Informações Sociais
+Extrato Previdenciário
+
+Página 3 de 8
+
+10/03/2023 21:08:54
+
+Identificação do Filiado
+
+NIT: 137.29863.19-2
+
+CPF: 021.544.643-78
+
+Nome: DENISIO EMANUEL DE SOUSA RODRIGUES
+
+Data de nascimento: 26/07/1986
+
+Nome da mãe:
+
+JACQUELINE DE SOUSA RODRIGUES
+
+Relações Previdenciárias
+
+Seq.
+
+NIT
+
+Código Emp.
+
+Origem do Vínculo
+
+Matrícula do
+Trabalhador
+
+Tipo Filiado no
+Vínculo
+
+Data Início Data Fim Últ. Remun.
+
+5
+
+137.29863.19-2
+
+AGRUPAMENTO DE CONTRATANTES/COOPERATIVAS
+
+Contribuinte Individual 01/06/2013 30/06/2013
+
+Indicadores:
+
+IREM-INDPEND
+
+Remunerações
+
+Competência
+
+06/2013
+
+Contrat./Cooperat.
+
+60.555.513/0001-90
+
+Estabelecimento
+
+60.555.513/0001-90
+
+Tomador
+
+Forma Prestação Serviço
+
+Remuneração
+
+Não Cooperado
+
+89,82
+
+Seq.
+
+NIT
+
+Código Emp.
+
+6
+
+137.29863.19-2
+
+13.383.234/0001-07
+
+Origem do Vínculo
+
+C C LINS INFORMATICA
+
+Matrícula do
+Trabalhador
+
+Tipo Filiado no
+Vínculo
+Empregado ou Agente
+Público
+
+Data Início Data Fim Últ. Remun.
+
+03/02/2014 28/09/2014
+
+09/2014
+
+Remunerações
+
+Competência
+
+Remuneração
+
+Indicadores
+
+Competência
+
+Remuneração
+
+Indicadores
+
+Competência
+
+Remuneração
+
+Indicadores
+
+02/2014
+
+05/2014
+
+08/2014
+
+834,60
+
+930,90
+
+1.091,00
+
+03/2014
+
+06/2014
+
+09/2014
+
+963,00
+
+1.046,50
+
+958,53
+
+04/2014
+
+07/2014
+
+963,00
+
+1.091,00
+
+Seq.
+
+NIT
+
+Código Emp.
+
+7
+
+137.29863.19-2
+
+65.599.953
+
+Indicadores:
+
+IREM-INDPEND
+
+Origem do Vínculo
+
+CAPGEMINI BRASIL S/A
+
+Matrícula do
+Trabalhador
+
+1025012
+
+Tipo Filiado no
+Vínculo
+Empregado ou Agente
+Público
+
+Data Início Data Fim Últ. Remun.
+
+27/10/2014 02/01/2017
+
+01/2017
+
+O INSS poderá rever a qualquer tempo as informações constantes deste extrato, observados os arts.19 ao 19-F do RPS aprovado pelo Decreto 3.048/99.
+O segurado somente terá reconhecida como tempo de contribuição ao RGPS a competência cujo valor consolidado seja igual ou superior ao salário mínimo, sendo assegurados os ajustes de complementação, utilização
+ou agrupamento, conforme o caso, de acordo com o § 14 do art.195 da CF/1988 e art.29 da EC 103/2019.
+
+INSS
+CNIS - Cadastro Nacional de Informações Sociais
+Extrato Previdenciário
+
+Página 4 de 8
+
+10/03/2023 21:08:54
+
+Identificação do Filiado
+
+NIT: 137.29863.19-2
+
+CPF: 021.544.643-78
+
+Nome: DENISIO EMANUEL DE SOUSA RODRIGUES
+
+Data de nascimento: 26/07/1986
+
+Nome da mãe:
+
+JACQUELINE DE SOUSA RODRIGUES
+
+Relações Previdenciárias
+
+Remunerações
+
+Competência
+
+Remuneração
+
+Indicadores
+
+Competência
+
+Remuneração
+
+Indicadores
+
+Competência
+
+Remuneração
+
+Indicadores
+
+10/2014
+
+01/2015
+
+04/2015
+
+07/2015
+
+10/2015
+
+01/2016
+
+03/2016
+
+06/2016
+
+09/2016
+
+12/2016
+
+01/2017
+
+226,67
+
+1.700,00
+
+1.700,00
+
+1.819,00
+
+1.819,00
+
+1.819,00
+
+615,54
+
+2.024,18
+
+2.249,12
+
+2.024,18
+
+134,98
+
+11/2014
+
+02/2015
+
+05/2015
+
+08/2015
+
+11/2015
+
+02/2016
+
+04/2016
+
+07/2016
+
+10/2016
+
+1.700,00
+
+1.700,00
+
+2.295,00
+
+1.819,00
+
+1.819,00
+
+1.819,00
+
+2.024,18
+
+2.473,97
+
+2.024,18
+
+IREM-ACD
+
+12/2014
+
+03/2015
+
+06/2015
+
+09/2015
+
+12/2015
+
+03/2016
+
+05/2016
+
+08/2016
+
+11/2016
+
+1.700,00
+
+1.700,00
+
+1.819,00
+
+1.819,00
+
+1.907,74
+
+1.819,00
+
+2.161,08
+
+2.024,18
+
+2.024,18
+
+01/2017
+
+8,88
+
+IREM-ACD
+
+Seq.
+
+NIT
+
+Código Emp.
+
+8
+
+137.29863.19-2
+
+26.598.143
+
+Origem do Vínculo
+SISTEMAS COMERCIALES DE BRASIL TECNOLOGIA DA
+INFORMACAO LTDA.
+
+Indicadores:
+
+IVIN-JORN-DIFERENCIADA, IREM-INDPEND
+
+Matrícula do
+Trabalhador
+265981430001300000
+4
+
+Tipo Filiado no
+Vínculo
+Empregado ou Agente
+Público
+
+Data Início Data Fim Últ. Remun.
+
+02/01/2017 05/10/2018
+
+10/2018
+
+Remunerações
+
+Competência
+
+Remuneração
+
+Indicadores
+
+Competência
+
+Remuneração
+
+Indicadores
+
+Competência
+
+Remuneração
+
+Indicadores
+
+01/2017
+
+04/2017
+
+3.600,00
+
+3.600,00
+
+02/2017
+
+05/2017
+
+3.600,00
+
+3.600,00
+
+03/2017
+
+06/2017
+
+3.600,00
+
+3.600,00
+
+O INSS poderá rever a qualquer tempo as informações constantes deste extrato, observados os arts.19 ao 19-F do RPS aprovado pelo Decreto 3.048/99.
+O segurado somente terá reconhecida como tempo de contribuição ao RGPS a competência cujo valor consolidado seja igual ou superior ao salário mínimo, sendo assegurados os ajustes de complementação, utilização
+ou agrupamento, conforme o caso, de acordo com o § 14 do art.195 da CF/1988 e art.29 da EC 103/2019.
+
+INSS
+CNIS - Cadastro Nacional de Informações Sociais
+Extrato Previdenciário
+
+Página 5 de 8
+
+10/03/2023 21:08:54
+
+Identificação do Filiado
+
+NIT: 137.29863.19-2
+
+CPF: 021.544.643-78
+
+Nome: DENISIO EMANUEL DE SOUSA RODRIGUES
+
+Data de nascimento: 26/07/1986
+
+Nome da mãe:
+
+JACQUELINE DE SOUSA RODRIGUES
+
+Relações Previdenciárias
+
+07/2017
+
+10/2017
+
+01/2018
+
+04/2018
+
+07/2018
+
+09/2018
+
+3.600,00
+
+3.632,00
+
+3.616,00
+
+4.178,49
+
+4.392,05
+
+33,74
+
+Seq.
+
+NIT
+
+Código Emp.
+
+9
+
+137.29863.19-2
+
+65.599.953
+
+Indicadores:
+
+IVIN-JORN-DIFERENCIADA
+
+Remunerações
+
+08/2017
+
+11/2017
+
+02/2018
+
+05/2018
+
+08/2018
+
+10/2018
+
+3.600,00
+
+3.616,00
+
+3.616,00
+
+4.333,41
+
+5.162,51
+
+1.415,83
+
+IREM-ACD
+
+09/2017
+
+12/2017
+
+03/2018
+
+06/2018
+
+09/2018
+
+10/2018
+
+3.600,00
+
+3.616,00
+
+3.977,60
+
+5.326,65
+
+4.644,30
+
+33,74
+
+IREM-ACD
+
+Origem do Vínculo
+
+CAPGEMINI BRASIL S/A
+
+Matrícula do
+Trabalhador
+
+1031379
+
+Tipo Filiado no
+Vínculo
+Empregado ou Agente
+Público
+
+Data Início Data Fim Últ. Remun.
+
+08/10/2018 17/04/2020
+
+04/2020
+
+Competência
+
+Remuneração
+
+Indicadores
+
+Competência
+
+Remuneração
+
+Indicadores
+
+Competência
+
+Remuneração
+
+Indicadores
+
+10/2018
+
+01/2019
+
+04/2019
+
+07/2019
+
+10/2019
+
+01/2020
+
+04/2020
+
+3.449,93
+
+5.884,01
+
+4.500,00
+
+4.728,15
+
+4.728,15
+
+12.038,06
+
+2.994,57
+
+11/2018
+
+02/2019
+
+05/2019
+
+08/2019
+
+11/2019
+
+02/2020
+
+4.500,00
+
+4.500,00
+
+5.451,30
+
+4.734,33
+
+6.378,81
+
+4.728,15
+
+12/2018
+
+03/2019
+
+06/2019
+
+09/2019
+
+12/2019
+
+03/2020
+
+4.500,00
+
+4.500,00
+
+4.728,15
+
+10.246,91
+
+5.415,04
+
+4.728,15
+
+O INSS poderá rever a qualquer tempo as informações constantes deste extrato, observados os arts.19 ao 19-F do RPS aprovado pelo Decreto 3.048/99.
+O segurado somente terá reconhecida como tempo de contribuição ao RGPS a competência cujo valor consolidado seja igual ou superior ao salário mínimo, sendo assegurados os ajustes de complementação, utilização
+ou agrupamento, conforme o caso, de acordo com o § 14 do art.195 da CF/1988 e art.29 da EC 103/2019.
+
+INSS
+CNIS - Cadastro Nacional de Informações Sociais
+Extrato Previdenciário
+
+Página 6 de 8
+
+10/03/2023 21:08:54
+
+Identificação do Filiado
+
+NIT: 137.29863.19-2
+
+CPF: 021.544.643-78
+
+Nome: DENISIO EMANUEL DE SOUSA RODRIGUES
+
+Data de nascimento: 26/07/1986
+
+Nome da mãe:
+
+JACQUELINE DE SOUSA RODRIGUES
+
+Relações Previdenciárias
+
+Seq.
+
+NIT
+
+Código Emp.
+
+Origem do Vínculo
+
+10
+
+137.29863.19-2
+
+25.190.432
+
+SERVICOS DE INFORMATICA - LYNX DO BRASIL LTDA
+
+Matrícula do
+Trabalhador
+SESERVDEIN00000000
+000000000024
+
+Tipo Filiado no
+Vínculo
+Empregado ou Agente
+Público
+
+Data Início Data Fim Últ. Remun.
+
+20/04/2020 17/03/2021
+
+03/2021
+
+Indicadores:
+
+IVIN-JORN-DIFERENCIADA
+
+Remunerações
+
+Competência
+
+Remuneração
+
+Indicadores
+
+Competência
+
+Remuneração
+
+Indicadores
+
+Competência
+
+Remuneração
+
+Indicadores
+
+04/2020
+
+07/2020
+
+10/2020
+
+01/2021
+
+2.016,67
+
+5.642,79
+
+5.500,00
+
+5.500,00
+
+05/2020
+
+08/2020
+
+11/2020
+
+02/2021
+
+5.500,00
+
+5.747,50
+
+5.500,00
+
+5.500,00
+
+06/2020
+
+09/2020
+
+12/2020
+
+03/2021
+
+5.500,00
+
+5.500,00
+
+5.500,00
+
+3.116,67
+
+Seq.
+
+NIT
+
+Código Emp.
+
+11
+
+137.29863.19-2
+
+65.599.953
+
+Origem do Vínculo
+
+CAPGEMINI BRASIL S/A
+
+Indicadores:
+
+IVIN-JORN-DIFERENCIADA, IREM-INDPEND
+
+Remunerações
+
+Matrícula do
+Trabalhador
+
+1034846
+
+Tipo Filiado no
+Vínculo
+Empregado ou Agente
+Público
+
+Data Início Data Fim Últ. Remun.
+
+07/04/2021
+
+02/2023
+
+Competência
+
+Remuneração
+
+Indicadores
+
+Competência
+
+Remuneração
+
+Indicadores
+
+Competência
+
+Remuneração
+
+Indicadores
+
+04/2021
+
+07/2021
+
+10/2021
+
+01/2022
+
+04/2022
+
+5.360,00
+
+7.208,53
+
+7.208,53
+
+7.421,25
+
+8.078,19
+
+05/2021
+
+08/2021
+
+11/2021
+
+02/2022
+
+05/2022
+
+9.108,95
+
+7.208,53
+
+7.208,53
+
+7.208,53
+
+7.177,00
+
+06/2021
+
+09/2021
+
+12/2021
+
+03/2022
+
+05/2022
+
+7.208,53
+
+9.311,79
+
+7.208,53
+
+7.208,53
+
+929,84
+
+IREM-ACD
+
+O INSS poderá rever a qualquer tempo as informações constantes deste extrato, observados os arts.19 ao 19-F do RPS aprovado pelo Decreto 3.048/99.
+O segurado somente terá reconhecida como tempo de contribuição ao RGPS a competência cujo valor consolidado seja igual ou superior ao salário mínimo, sendo assegurados os ajustes de complementação, utilização
+ou agrupamento, conforme o caso, de acordo com o § 14 do art.195 da CF/1988 e art.29 da EC 103/2019.
+
+INSS
+CNIS - Cadastro Nacional de Informações Sociais
+Extrato Previdenciário
+
+Página 7 de 8
+
+10/03/2023 21:08:54
+
+Identificação do Filiado
+
+NIT: 137.29863.19-2
+
+CPF: 021.544.643-78
+
+Nome: DENISIO EMANUEL DE SOUSA RODRIGUES
+
+Data de nascimento: 26/07/1986
+
+Nome da mãe:
+
+JACQUELINE DE SOUSA RODRIGUES
+
+Relações Previdenciárias
+
+06/2022
+
+07/2022
+
+10/2022
+
+01/2023
+
+7.227,57
+
+898,90
+
+11.775,82
+
+8.512,80
+
+IREM-ACD
+
+06/2022
+
+08/2022
+
+11/2022
+
+02/2023
+
+901,27
+
+8.139,16
+
+8.625,16
+
+8.617,08
+
+IREM-ACD
+
+07/2022
+
+09/2022
+
+12/2022
+
+7.197,72
+
+8.200,93
+
+8.512,80
+
+Valores Consolidados por Ano Civil
+
+Ano
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+Jan
+
+Fev
+
+Mar
+
+Abr
+
+Mai
+
+Jun
+
+Jul
+
+Ago
+
+Set
+
+Out
+
+Nov
+
+Dez
+
+6.101,06 *
+
+4.728,15
+
+5.500,00
+
+5.500,00
+
+4.728,15
+
+3.116,67
+
+5.011,24
+
+5.500,00
+
+5.500,00
+
+5.642,79
+
+5.747,50
+
+5.500,00
+
+5.500,00
+
+5.500,00
+
+5.500,00
+
+5.360,00
+
+6.433,57 *
+
+6.433,57 *
+
+6.433,57 *
+
+6.433,57 *
+
+6.433,57 *
+
+6.433,57 *
+
+6.433,57 *
+
+6.433,57 *
+
+7.087,22 *
+
+7.087,22 *
+
+7.087,22 *
+
+7.087,22 *
+
+7.087,22 *
+
+7.087,22 *
+
+7.087,22 *
+
+7.087,22 *
+
+7.087,22 *
+
+7.087,22 *
+
+7.087,22 *
+
+7.087,22 *
+
+7.507,49 *
+
+7.507,49 *
+
+5.839,45 *
+
+5.415,04
+
+Legenda de Indicadores
+
+Indicador
+
+IREM-ACD
+
+Descrição
+
+Indicador
+
+Descrição
+
+Remuneração possui parcela de Acordo, Convenção ou
+Dissídio Coletivo.
+
+IREM-INDPEND
+
+Remunerações com indicadores/pendências
+
+IVIN-JORN-DIFERENCIADA Vínculo possui regime de jornada diferenciada
+
+PREC-MENOR-MIN
+
+Recolhimento abaixo do valor mínimo
+
+O INSS poderá rever a qualquer tempo as informações constantes deste extrato, observados os arts.19 ao 19-F do RPS aprovado pelo Decreto 3.048/99.
+O segurado somente terá reconhecida como tempo de contribuição ao RGPS a competência cujo valor consolidado seja igual ou superior ao salário mínimo, sendo assegurados os ajustes de complementação, utilização
+ou agrupamento, conforme o caso, de acordo com o § 14 do art.195 da CF/1988 e art.29 da EC 103/2019.
+
+INSS
+CNIS - Cadastro Nacional de Informações Sociais
+Extrato Previdenciário
+
+Página 8 de 8
+
+10/03/2023 21:08:54
+
+Identificação do Filiado
+
+NIT: 137.29863.19-2
+
+CPF: 021.544.643-78
+
+Nome: DENISIO EMANUEL DE SOUSA RODRIGUES
+
+Data de nascimento: 26/07/1986
+
+Nome da mãe:
+
+JACQUELINE DE SOUSA RODRIGUES
+
+Você pode conferir a autenticidade do documento em
+https://meu.inss.gov.br/central/#/autenticidade
+com o código 230310CENTRAL-JVY6AY12
+
+O INSS poderá rever a qualquer tempo as informações constantes deste extrato, observados os arts.19 ao 19-F do RPS aprovado pelo Decreto 3.048/99.
+O segurado somente terá reconhecida como tempo de contribuição ao RGPS a competência cujo valor consolidado seja igual ou superior ao salário mínimo, sendo assegurados os ajustes de complementação, utilização
+ou agrupamento, conforme o caso, de acordo com o § 14 do art.195 da CF/1988 e art.29 da EC 103/2019.
+
+

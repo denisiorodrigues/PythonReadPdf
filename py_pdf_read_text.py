@@ -1,83 +1,71 @@
-import PyPDF2
+from pypdf import PdfReader
 import os
+from helper import divisor, divisor_text
+import json
 
-#Obter o caminho completo
-print(os.getcwd())
+head = []
+body = []
+footer = []
 
-def divisor (title=''):
-    total = 50
-    print("-"*total)
-    print(title.upper().center(total))
-    print("-"*total)
+path = "files/extrat_text.txt"
 
 
-# pdf file object
-# you can find find the pdf file with complete code in below
-main_folder = 'cnis' 
-file_path = os.path.join(main_folder, 'file.pdf')
-pdfFileObj = open(file_path, 'rb')
+def visitor_body(text, cm, tm, font_dict, font_size):
+    y = tm[5]
+
+    if text != "" and text != " ":
+        f = open(path, "a", encoding="utf-8")
+        f.write(str(tm) + '\n')
+        f.write(text+'\n')
+        f.close()
+
+    if y > 457 and y < 474:
+        head.append(text)
+
+    if y > 24 and y < 35:
+        footer.append(text)
+
+
 # pdf reader object
-reader = PyPDF2.PdfReader(pdfFileObj)
-# number of pages in pdf
+reader = PdfReader('files/extrato.pdf')
+if os.path.exists(path):
+    os.remove(path)
 
-divisor("Properties File")
-print("Size: ", os.path.getsize(file_path), "bytes")
-print(reader.get_fields())
-print(reader.metadata)
+path_print_terminal_text = "print_terminal_text.txt"
 
-divisor('get_fields')
-print(reader.get_fields())
+if os.path.exists(path_print_terminal_text):
+    os.remove(path_print_terminal_text)
 
-divisor('get_form_text_fields')
-print(reader.get_form_text_fields())
+f = open(path_print_terminal_text, "a", encoding="utf-8")
 
-divisor('is_encrypted')
-print(reader.is_encrypted)
+separador_header = "-"*20 + " HEAD " + "-"*20
+separador_body = "-"*20 + " BODY " + "-"*20
+separador_footer = "-"*20 + " FOOTER " + "-"*20
 
-page_number = 0
-divisor(f'page {page_number}')
-print(reader.pages[page_number])
+qtd_pages = len(reader.pages)
 
-divisor('Total pages')
-print(len(reader.pages))
+for index in range(qtd_pages):
+    head = []
+    body = []
+    footer = []
 
-# a page object
-#divisor('Extracting text from page')
-#page_number = 0
-page = reader.pages[page_number]
-## extracting text from page.
-## this will print the text you can also save that into String
-print(page.extract_text())
-#
-#divisor('Page')
-#
-#print(type(page))
-#print(page)
-#
-#divisor('Visitor body')
-#
-#parts = []
-#
-#
-#def visitor_body(text, cm, tm, font_dict, font_size):
-#    y = tm[5]
-#    if y > 50 and y < 720:
-#        parts.append(text)
-#
-#
-#page.extract_text(visitor_text=visitor_body)
-#text_body = "".join(parts)
-#
-#print(type(text_body))
-#print(text_body)
-#divisor('Decode')
-#print(text_body.encode('utf8').decode('utf8'))
-#
-#
-##IMAGES
-count = 0
-page = reader.pages[0]
-for image_file_object in page.images:
-    with open(f"{main_folder}/{str(count) + image_file_object.name}", "wb") as fp:
-        fp.write(image_file_object.data)
-        count += 1
+    page = reader.pages[index]
+    page.extract_text(visitor_text=visitor_body)
+    divisor(f"PAGINA {index+1}")
+    print(separador_header)
+    print("".join(head))
+    print(separador_body)
+    print("".join(body))
+    print(separador_footer)
+    print("".join(footer))
+    print("-"*50 + "\n")
+
+    f.write(f"\n\n{'-'*100}\nPAGINA {index+1}\n{'-'*100}\n")
+    f.write(separador_header + "\n")
+    f.write("".join(head) + "\n")
+    f.write(separador_body + "\n")
+    f.write("".join(body) + "\n")
+    f.write(separador_footer+"\n")
+    f.write("".join(footer)+"\n")
+
+f.close()
