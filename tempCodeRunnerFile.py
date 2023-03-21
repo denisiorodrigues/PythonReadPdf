@@ -1,0 +1,2 @@
+
+print(employee.nit)

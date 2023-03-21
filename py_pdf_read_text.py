@@ -2,12 +2,41 @@ from pypdf import PdfReader
 import os
 from helper import divisor, divisor_text
 import json
+from employee import Employee
 
 head = []
 body = []
 footer = []
 
 path = "files/extrat_text.txt"
+
+employee = Employee()
+employee.nit = "1231654"
+
+
+def extract_employee(text, cm, tm, font_dict, font_size):
+    x = tm[4]
+    y = tm[5]
+
+    if x == 55.0 and y == 473.72:
+        print(text)
+        employee.nit = text
+
+    if x == 263.0 and y == 473.72:
+        print(text)
+        employee.cpf = text
+
+    if x == 405.0 and y == 473.72:
+        print(text)
+        employee.name = text
+
+    if x == 150.0 and y == 458.72:
+        print(text)
+        employee.birth_date = text
+
+    if x == 455.0 and y == 458.72:
+        print(text)
+        employee.mothers_name = text
 
 
 def visitor_body(text, cm, tm, font_dict, font_size):
@@ -28,6 +57,18 @@ def visitor_body(text, cm, tm, font_dict, font_size):
 
 # pdf reader object
 reader = PdfReader('files/extrato.pdf')
+
+# Get Employee
+page_one = reader.pages[0]
+page_one.extract_text(visitor_text=extract_employee)
+
+divisor("Employee JSON")
+print("employee.nit")
+print(employee.nit)
+# print(json.dumps(employee))
+print("-"*100)
+
+
 if os.path.exists(path):
     os.remove(path)
 
@@ -44,6 +85,7 @@ separador_footer = "-"*20 + " FOOTER " + "-"*20
 
 qtd_pages = len(reader.pages)
 
+#   PRINT
 for index in range(qtd_pages):
     head = []
     body = []
@@ -51,14 +93,14 @@ for index in range(qtd_pages):
 
     page = reader.pages[index]
     page.extract_text(visitor_text=visitor_body)
-    divisor(f"PAGINA {index+1}")
-    print(separador_header)
-    print("".join(head))
-    print(separador_body)
-    print("".join(body))
-    print(separador_footer)
-    print("".join(footer))
-    print("-"*50 + "\n")
+    # divisor(f"PAGINA {index+1}")
+    # print(separador_header)
+    # print("".join(head))
+    # print(separador_body)
+    # print("".join(body))
+    # print(separador_footer)
+    # print("".join(footer))
+    # print("-"*50 + "\n")
 
     f.write(f"\n\n{'-'*100}\nPAGINA {index+1}\n{'-'*100}\n")
     f.write(separador_header + "\n")
