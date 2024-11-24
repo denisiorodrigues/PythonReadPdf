@@ -8,10 +8,9 @@ head = []
 body = []
 footer = []
 
-path = "files/extrat_text.txt"
+employee_data = []
 
-employee = Employee()
-employee.nit = "1231654"
+path = "files/extrat_text.txt"
 
 
 def extract_employee(text, cm, tm, font_dict, font_size):
@@ -20,23 +19,28 @@ def extract_employee(text, cm, tm, font_dict, font_size):
 
     if x == 55.0 and y == 473.72:
         print(text)
-        employee.nit = text
+        employee_data.append(text)
+        # employee.nit = text
 
     if x == 263.0 and y == 473.72:
         print(text)
-        employee.cpf = text
+        employee_data.append(text)
+        # employee.cpf = text
 
     if x == 405.0 and y == 473.72:
         print(text)
-        employee.name = text
+        employee_data.append(text)
+        # employee.name = text
 
     if x == 150.0 and y == 458.72:
         print(text)
-        employee.birth_date = text
+        employee_data.append(text)
+        # employee.birth_date = text
 
     if x == 455.0 and y == 458.72:
         print(text)
-        employee.mothers_name = text
+        employee_data.append(text)
+        # employee.mothers_name = text
 
 
 def visitor_body(text, cm, tm, font_dict, font_size):
@@ -62,9 +66,13 @@ reader = PdfReader('files/extrato.pdf')
 page_one = reader.pages[0]
 page_one.extract_text(visitor_text=extract_employee)
 
+employee = Employee()
+
 divisor("Employee JSON")
 print("employee.nit")
+employee.nit = employee_data[1]
 print(employee.nit)
+print(employee_data)
 # print(json.dumps(employee))
 print("-"*100)
 
